@@ -1,0 +1,2 @@
+It is a test file.
+And I make it a .txt file now.
